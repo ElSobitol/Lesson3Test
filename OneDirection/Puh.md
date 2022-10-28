@@ -16,3 +16,4 @@ git diff
 
 SaveOnes
 
+color {red} 
